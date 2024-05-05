@@ -3,6 +3,7 @@ import string
 import sys
 import traceback
 from importlib.machinery import SourceFileLoader
+print('hello world')
 
 if __name__ == "__main__":
     files = sys.argv[1:]
